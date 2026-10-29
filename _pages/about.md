@@ -47,7 +47,7 @@ I am a first-year Ph.D. candidate in Computer Science at the Hong Kong Universit
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023). *NeurIPS 2023*. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, and Junxian He.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023). *NeurIPS 2023*. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, and Junxian He.
 
-A list of publications is also available on the [Publications](/publications/) subpage.
+A list of publications is also available on the [Publications]({{ '/publications/' | relative_url }}) subpage.
 
 ## Contact
 
